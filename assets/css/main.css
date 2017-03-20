@@ -1227,11 +1227,10 @@
 			}
 
 		#header .content {
-			border-style: solid;
-			border-color: #ffffff;
-			border-top-width: 1px;
-			border-bottom-width: 1px;
-			max-width: 100%;
+			max-width: 75%;
+    			background-color: rgba(27, 31, 34, 0.3);
+			border-radius: 25px;
+			padding: 5%;
 		}
 
 			#header .content .inner {
