@@ -1230,7 +1230,8 @@
 			max-width: 75%;
     			background-color: rgba(27, 31, 34, 0.3);
 			border-radius: 25px;
-			padding: 5%;
+			padding-left: 5%;
+			padding-right: 5%;
 		}
 
 			#header .content .inner {
